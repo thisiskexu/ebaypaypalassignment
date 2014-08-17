@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CheckoutError.aspx.cs" Inherits="EbayPaypalAssignmentKe.Checkout.CheckoutError" %>
+﻿<%@ Page Title="Checkout Error" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CheckoutError.aspx.cs" Inherits="EbayPaypalAssignmentKe.Checkout.CheckoutError" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h1>Checkout Error</h1>
     <p></p>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CheckoutComplete.aspx.cs" Inherits="EbayPaypalAssignmentKe.Checkout.CheckoutComplete" %>
+﻿<%@ Page Title="Checkout Complete" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CheckoutComplete.aspx.cs" Inherits="EbayPaypalAssignmentKe.Checkout.CheckoutComplete" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h1>Checkout Complete</h1>
     <p></p>
